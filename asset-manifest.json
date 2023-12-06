@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LKE-kairos/static/css/main.bf0c919c.css",
+    "main.css": "/LKE-kairos/static/css/main.5cd886b3.css",
     "main.js": "/LKE-kairos/static/js/main.a0e3a9c1.js",
     "static/media/LibreBaskerville-Italic.woff2": "/LKE-kairos/static/media/LibreBaskerville-Italic.d4e32215ccf1b8641903.woff2",
     "static/media/LibreBaskerville-Bold.woff2": "/LKE-kairos/static/media/LibreBaskerville-Bold.e1014d99a2fe3ec8e216.woff2",
@@ -10,11 +10,11 @@
     "static/media/OPTICopperplate.woff": "/LKE-kairos/static/media/OPTICopperplate.76616894eaf4f23ae295.woff",
     "static/media/OPTICopperplate-Heavy.woff": "/LKE-kairos/static/media/OPTICopperplate-Heavy.0635e5d881b20b97b8c2.woff",
     "index.html": "/LKE-kairos/index.html",
-    "main.bf0c919c.css.map": "/LKE-kairos/static/css/main.bf0c919c.css.map",
+    "main.5cd886b3.css.map": "/LKE-kairos/static/css/main.5cd886b3.css.map",
     "main.a0e3a9c1.js.map": "/LKE-kairos/static/js/main.a0e3a9c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf0c919c.css",
+    "static/css/main.5cd886b3.css",
     "static/js/main.a0e3a9c1.js"
   ]
 }
