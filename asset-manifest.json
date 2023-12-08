@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LKE-kairos/static/css/main.800dd078.css",
-    "main.js": "/LKE-kairos/static/js/main.f313a827.js",
+    "main.js": "/LKE-kairos/static/js/main.92571019.js",
     "static/media/GowunBatang-Regular.woff": "/LKE-kairos/static/media/GowunBatang-Regular.045de707a86c91bb9c3b.woff",
     "static/media/GowunBatang-Bold.woff": "/LKE-kairos/static/media/GowunBatang-Bold.a4a4d95fab2417104e6e.woff",
     "static/media/SUIT-Variable.woff2": "/LKE-kairos/static/media/SUIT-Variable.212131af6852e1544523.woff2",
@@ -16,10 +16,10 @@
     "static/media/OPTICopperplate-Heavy.woff": "/LKE-kairos/static/media/OPTICopperplate-Heavy.0635e5d881b20b97b8c2.woff",
     "index.html": "/LKE-kairos/index.html",
     "main.800dd078.css.map": "/LKE-kairos/static/css/main.800dd078.css.map",
-    "main.f313a827.js.map": "/LKE-kairos/static/js/main.f313a827.js.map"
+    "main.92571019.js.map": "/LKE-kairos/static/js/main.92571019.js.map"
   },
   "entrypoints": [
     "static/css/main.800dd078.css",
-    "static/js/main.f313a827.js"
+    "static/js/main.92571019.js"
   ]
 }
